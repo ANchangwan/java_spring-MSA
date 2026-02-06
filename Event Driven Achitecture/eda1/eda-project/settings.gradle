@@ -1,0 +1,5 @@
+rootProject.name = 'eda-project'
+
+include 'common-module'
+include 'order-service'
+include 'inventory-service'
